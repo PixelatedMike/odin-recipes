@@ -1,0 +1,1 @@
+This is a toy website made in the Foundations course of [The Odin Project](https://www.theodinproject.com/lessons/foundations-recipes).
